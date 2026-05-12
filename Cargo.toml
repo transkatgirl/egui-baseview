@@ -45,7 +45,7 @@ members = [
 
 [workspace.dependencies]
 raw-window-handle = "0.5"
-baseview = { git = "https://github.com/transkatgirl/baseview.git", rev = "783fa9a8017af7d627d727e85a3a77a9b013bf39" }
+baseview = { git = "https://github.com/transkatgirl/baseview.git", rev = "b6e66adf378d9de4820881491e705ae6b9ca52cd" }
 nih_plug = { git = "https://github.com/robbert-vdh/nih-plug.git", rev = "28b149ec4d62757d0b448809148a0c3ca6e09a95", default-features = false }
 
 [dependencies]
